@@ -22,10 +22,6 @@
     "@angular/platform-browser-dynamic": "~11.0.0",
     "@angular/router": "~11.0.0",
     "rxjs": "~6.6.0",
-    "@ngrx/effects": "^9.2.0",
-    "@ngrx/store": "^9.2.0",
-    "ngrx-store-freeze": "^0.2.4",
-    "ngrx-store-logger": "^0.2.0",
     "lodash": "^4.13.1",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
